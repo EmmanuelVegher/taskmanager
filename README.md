@@ -62,7 +62,8 @@ Flutter SDK installed on your machine. Flutter Installation Guide
 
 Choose the target device (emulator/simulator or physical device) when prompted.
 
-*Project Structure*
+## Project Structure
+
 task_manager/
 ├── AllWidgets/             # Custom widgets used throughout the app
 │   ├── button.dart
@@ -88,7 +89,7 @@ task_manager/
 ├── README.md              # Project documentation (this file)
 └── ...                    # Other Flutter project files
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to the development of Task Manager, please follow these steps:
 
 1) Fork the repository.
@@ -102,5 +103,5 @@ Contributions are welcome! If you'd like to contribute to the development of Tas
 5) Submit a pull request to the main repository.
 
 
-Contact
+## Contact
 Emmanuel Vegher - vegher.emmanuel@gmail.com
