@@ -49,8 +49,8 @@ Flutter SDK installed on your machine. Flutter Installation Guide
 ## Installation
 1) Clone the repository:
 
-  git clone https://github.com/EmmanuelVegher/taskmanager.git
-  cd taskmanager
+  - git clone https://github.com/EmmanuelVegher/taskmanager.git
+  - cd taskmanager
 
 2) Get dependencies:
 
@@ -87,7 +87,7 @@ task_manager/
 ├── main.dart              # Entry point of the application
 ├── pubspec.yaml           # Project dependencies and configuration
 ├── README.md              # Project documentation (this file)
-└── ...                    # Other Flutter project files
+
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to the development of Task Manager, please follow these steps:
